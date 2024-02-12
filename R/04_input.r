@@ -1,0 +1,2 @@
+var = readline()
+print(var)

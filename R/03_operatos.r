@@ -1,0 +1,5 @@
+#arithmatic operator (+, -, *, /, %, ^, %%, %/%)
+#assignment operator (<-, <<-)
+#relational operator (<, >, <=, >=, ==, !=)
+#logical operator (&, |, &&, ||, !)
+#miscellaneous operator (:, %in%, %*%)
